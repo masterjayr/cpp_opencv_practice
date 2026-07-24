@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/emmanuelemmanuel/Documents/cpp_opencv_practice/cv_pipeline/build",
-  "command": "/usr/bin/clang++ -isystem /opt/homebrew/Cellar/opencv/4.10.0_11/include/opencv4 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.0.sdk -o CMakeFiles/mat_internals.dir/src/01_mat_internals.cpp.o -c /Users/emmanuelemmanuel/Documents/cpp_opencv_practice/cv_pipeline/src/01_mat_internals.cpp",
-  "file": "/Users/emmanuelemmanuel/Documents/cpp_opencv_practice/cv_pipeline/src/01_mat_internals.cpp",
-  "output": "CMakeFiles/mat_internals.dir/src/01_mat_internals.cpp.o"
-}
-]

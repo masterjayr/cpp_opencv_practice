@@ -1,3 +1,0 @@
-/Users/emmanuelemmanuel/Documents/cpp_opencv_practice/cv_pipeline/build/CMakeFiles/mat_internals.dir
-/Users/emmanuelemmanuel/Documents/cpp_opencv_practice/cv_pipeline/build/CMakeFiles/edit_cache.dir
-/Users/emmanuelemmanuel/Documents/cpp_opencv_practice/cv_pipeline/build/CMakeFiles/rebuild_cache.dir
